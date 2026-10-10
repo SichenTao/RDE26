@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "RDE26: Reconstructed Differential Evolution entries for the IEEE WCCI/CEC 2026 numerical optimization competition"
+type: software
+authors:
+  - family-names: Tao
+    given-names: Sichen
+  - family-names: Hu
+    given-names: Hanyu
+  - family-names: Zhao
+    given-names: Ruihan
+  - family-names: Zhang
+    given-names: Qingke
+  - family-names: Yang
+    given-names: Yifei
+  - family-names: Wang
+    given-names: Jian
+  - family-names: Kawai
+    given-names: Masatoshi
+  - family-names: Takizawa
+    given-names: Hiroyuki
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+repository-code: "https://github.com/SichenTao/RDE26"
+url: "https://github.com/SichenTao/RDE26"
+abstract: >-
+  Source code of RDE26, the differential evolution solvers that ranked first in all
+  four tracks (bound-constrained and constrained single-objective, bound-constrained
+  and constrained multi-objective) of the IEEE WCCI 2026 / IEEE CEC 2026 Competition
+  on Numerical Optimization Considering Accuracy and Speed.
+keywords:
+  - differential evolution
+  - numerical optimization
+  - evolutionary algorithm
+  - IEEE CEC 2026
+# TODO: add "doi:" with the Zenodo version DOI after the first release is archived
+# TODO: add the RDE26 paper (preferred-citation) when it is available
+references:
+  - type: generic
+    title: "Performance comparison of CEC 2026 competition entries on numerical optimization considering accuracy and speed"
+    authors:
+      - family-names: Qiao
+        given-names: K.
+      - family-names: Ban
+        given-names: X.
+      - family-names: Chen
+        given-names: P.
+      - family-names: Price
+        given-names: K. V.
+      - family-names: Suganthan
+        given-names: P. N.
+      - family-names: Liang
+        given-names: J.
+      - family-names: Yue
+        given-names: C.
+      - family-names: Wu
+        given-names: G.
+    year: 2026
+    notes: "IEEE WCCI/CEC 2026 competition slides"
+    url: "https://github.com/P-N-Suganthan/2026-CEC"

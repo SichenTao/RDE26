@@ -12,3 +12,9 @@ outputs/
 *.fdb_latexmk
 *.fls
 *.log
+*_F*_D*.txt
+*_G_F*_D*.txt
+*_H_F*_D*.txt
+*_f_F*_D*_.txt
+time_complexity.txt
+RDE26_MOP/code/rde26-mop/src/rde2026_mop_r05_t0070
